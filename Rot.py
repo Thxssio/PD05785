@@ -9,7 +9,7 @@ def rotacionar_imagens(diretorio, angulo):
     # Lista todos os arquivos no diretório
     arquivos = os.listdir(diretorio)
     
-    # Filtra apenas os arquivos de imagem (você pode mudar a extensão conforme necessário)
+    # Filtra apenas os arquivos de imagem
     imagens = [imagem for imagem in arquivos if imagem.endswith(('.jpg', '.jpeg', '.png', '.gif'))]
     
     # Rotaciona e salva as imagens no mesmo diretório
