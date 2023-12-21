@@ -1,7 +1,7 @@
 import os
 
 # Diretório onde estão as imagens
-diretorio = './dataset/Isoladores'
+diretorio = 'dataset_2'
 
 # Função para reordenar as imagens
 def reordenar_imagens(diretorio):
