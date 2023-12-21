@@ -8,4 +8,4 @@
 
 - [x] YoloV8
 - [x] Python
-- []  C++ (Not Working [20/12/2023])
+- [ ]  C++ (Not Working [20/12/2023])
