@@ -2,7 +2,7 @@
 
 
 
-***Este dataset está operando com yolov8 ultralytes***
+***Este dataset está operando com yolov8 ultralytics***
 
 
 
